@@ -1,5 +1,5 @@
 <h1 align="center">Its 👋, Zangtics Digital</h1>
-<h3 align="center">We are passionate frontend and backend developers from Kenya</h3>
+<h3 align="center">We are passionate Web Apps frontend and backend developers from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcldevelopers" alt="rcldevelopers" /></a> </p>
 
