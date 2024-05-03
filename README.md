@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Game development frameworks, Machine learning (ML) frameworks, Graphical user interface (GUI) frameworks, Ruby on Rails (Rails)Ruby on Rails (Rails), Django**
 
-- 👯 I’m looking to collaborate on [Glamour-Touch-Upholsters-Wep-App](https://github.com/RCLDevelopers/Glamour-Touch-Upholsters-Wep-App)
-
 - 🤝 I’m looking for help with [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RCLDevelopers](https://github.com/RCLDevelopers)
