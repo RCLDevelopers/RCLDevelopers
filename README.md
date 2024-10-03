@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About US:
 We are passionate frontend and backend developers from Kenya
 
 
